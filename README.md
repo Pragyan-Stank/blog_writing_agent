@@ -15,7 +15,7 @@ This project automates the entire blog creation workflow:
 ---
 
 ## Workflow
-<img width="160" height="630" alt="image" src="https://github.com/user-attachments/assets/5d2020ba-e10e-4f1b-aadc-36312f701859" /> SubGraph under Reducer <img width="252" height="432" alt="image" src="https://github.com/user-attachments/assets/4caf0a61-9d88-4432-a420-0dc4fe78c47d" />
+<img width="160" height="630" alt="image" src="https://github.com/user-attachments/assets/5d2020ba-e10e-4f1b-aadc-36312f701859" />  <img width="252" height="432" alt="image" src="https://github.com/user-attachments/assets/4caf0a61-9d88-4432-a420-0dc4fe78c47d" text="SubGraph under Reducer"/>
 
 
 ---
